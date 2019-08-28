@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'IJKMediaFramework'
-  s.version          = 'k0.8.8'
+  s.version          = '0.8.8'
   s.summary          = 'ijkplayer framework.'
   s.homepage         = 'https://github.com/leonadev/IJKMediaFramework'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
