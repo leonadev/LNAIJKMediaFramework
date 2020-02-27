@@ -7,13 +7,13 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'IJKMediaFramework'
+  s.name             = 'LNAIJKMediaFramework'
   s.version          = '0.8.8'
   s.summary          = 'ijkplayer framework.'
-  s.homepage         = 'https://github.com/leonadev/IJKMediaFramework'
+  s.homepage         = 'https://github.com/leonadev/LNAIJKMediaFramework'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'leonadev' => 'leonadev@163.com' }
-  s.source           = { :git => 'https://github.com/leonadev/IJKMediaFramework.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/leonadev/LNAIJKMediaFramework.git', :tag => s.version.to_s }
   s.ios.deployment_target = '8.0'
   s.vendored_frameworks = 'IJKMediaFramework.framework'
   s.frameworks  = "AudioToolbox", "AVFoundation", "CoreGraphics", "CoreMedia", "CoreVideo", "MobileCoreServices", "OpenGLES", "QuartzCore", "VideoToolbox", "Foundation", "UIKit", "MediaPlayer"

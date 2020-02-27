@@ -1,4 +1,4 @@
-# IJKMediaFramework
+# LNAIJKMediaFramework
 
 基于Bilibili/ijkplayer.git编译，版本k0.8.8
 
